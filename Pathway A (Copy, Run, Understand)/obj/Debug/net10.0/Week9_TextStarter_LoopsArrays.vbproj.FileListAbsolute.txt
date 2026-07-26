@@ -1,0 +1,17 @@
+Z:\CS-120\Pathway A (Copy, Run, Understand)\bin\Debug\net10.0\Week9_TextStarter_LoopsArrays.exe
+Z:\CS-120\Pathway A (Copy, Run, Understand)\bin\Debug\net10.0\Week9_TextStarter_LoopsArrays.deps.json
+Z:\CS-120\Pathway A (Copy, Run, Understand)\bin\Debug\net10.0\Week9_TextStarter_LoopsArrays.runtimeconfig.json
+Z:\CS-120\Pathway A (Copy, Run, Understand)\bin\Debug\net10.0\Week9_TextStarter_LoopsArrays.dll
+Z:\CS-120\Pathway A (Copy, Run, Understand)\bin\Debug\net10.0\Week9_TextStarter_LoopsArrays.pdb
+Z:\CS-120\Pathway A (Copy, Run, Understand)\bin\Debug\net10.0\Newtonsoft.Json.dll
+Z:\CS-120\Pathway A (Copy, Run, Understand)\obj\Debug\net10.0\Week9_TextStarter_LoopsArrays.vbproj.AssemblyReference.cache
+Z:\CS-120\Pathway A (Copy, Run, Understand)\obj\Debug\net10.0\Week9_TextStarter_LoopsArrays.GeneratedMSBuildEditorConfig.editorconfig
+Z:\CS-120\Pathway A (Copy, Run, Understand)\obj\Debug\net10.0\Week9_TextStarter_LoopsArrays.AssemblyInfoInputs.cache
+Z:\CS-120\Pathway A (Copy, Run, Understand)\obj\Debug\net10.0\Week9_TextStarter_LoopsArrays.AssemblyInfo.vb
+Z:\CS-120\Pathway A (Copy, Run, Understand)\obj\Debug\net10.0\Week9_TextStarter_LoopsArrays.vbproj.CoreCompileInputs.cache
+Z:\CS-120\Pathway A (Copy, Run, Understand)\obj\Debug\net10.0\Week9_Te.02961AC4.Up2Date
+Z:\CS-120\Pathway A (Copy, Run, Understand)\obj\Debug\net10.0\Week9_TextStarter_LoopsArrays.dll
+Z:\CS-120\Pathway A (Copy, Run, Understand)\obj\Debug\net10.0\refint\Week9_TextStarter_LoopsArrays.dll
+Z:\CS-120\Pathway A (Copy, Run, Understand)\obj\Debug\net10.0\Week9_TextStarter_LoopsArrays.pdb
+Z:\CS-120\Pathway A (Copy, Run, Understand)\obj\Debug\net10.0\Week9_TextStarter_LoopsArrays.genruntimeconfig.cache
+Z:\CS-120\Pathway A (Copy, Run, Understand)\obj\Debug\net10.0\ref\Week9_TextStarter_LoopsArrays.dll

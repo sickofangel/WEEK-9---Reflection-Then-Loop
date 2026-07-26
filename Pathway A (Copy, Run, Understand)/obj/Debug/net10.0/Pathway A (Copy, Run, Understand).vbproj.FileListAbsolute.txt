@@ -1,0 +1,4 @@
+Z:\CS-120\Pathway A (Copy, Run, Understand)\obj\Debug\net10.0\Pathway A (Copy, Run, Understand).GeneratedMSBuildEditorConfig.editorconfig
+Z:\CS-120\Pathway A (Copy, Run, Understand)\obj\Debug\net10.0\Pathway A (Copy, Run, Understand).AssemblyInfoInputs.cache
+Z:\CS-120\Pathway A (Copy, Run, Understand)\obj\Debug\net10.0\Pathway A (Copy, Run, Understand).AssemblyInfo.vb
+Z:\CS-120\Pathway A (Copy, Run, Understand)\obj\Debug\net10.0\Pathway A (Copy, Run, Understand).vbproj.CoreCompileInputs.cache
