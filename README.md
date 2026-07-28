@@ -4,16 +4,16 @@
 
 This Shows Where all requirements are met and the location**
   
-Reflection: folder/file path*
+Reflection: # Week 9 Reflection: Weeks 6-8
 
-Query log: folder/file path
+Query log: Query Log Builder
 
-Pathway A text starter project: Week 9_TextStarter_LoopsArrays /file path
+Pathway A text starter project: Week 9_TextStarter_LoopsArrays 
 
-Pathway B video tutorial project: Week9 Pathway B Video lesson /file path
+Pathway B video tutorial project: Week9 Pathway B Video lesson 
 
-Screenshots: Week 9 ScreenShots/file path
+Screenshots: Week 9 Screenshots
 
-Discord proof: folder/file path
+Discord proof: Week 9 Discord Proof 
 
-Assets/libraries: folder/file path
+Assets/libraries: Assets
